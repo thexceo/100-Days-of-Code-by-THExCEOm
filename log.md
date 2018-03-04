@@ -22,7 +22,7 @@
 2. [Team treehouse CSS layouts](https://teamtreehouse.com/library/css-layout-basics/page-layout-with-the-float-property/the-float-challenge)
 
 
-### Day 3: March 02, 2018
+### Day 2: March 02, 2018
 
 
 **Today's Progress**: 2 Team  treehouse sections (CSS Flex and page layouts) Finished 1st edition Freecodecamp Tribute page
@@ -31,4 +31,25 @@
 
 **Link to work(s):**
 1. [FreeCode Camp Tribute](https://codepen.io/THExCEO/pen/ZrjeGd) via @CodePen
-https://github.com/octocat/octocat.github.io/commit/67c0afc1da354d8571f51b6f0af8f2794117fd10.patch
+
+
+### Day 3: March 03, 2018
+
+
+**Today's Progress**: teamtreehouse training
+
+**Thoughts:** Didn't code as much as I wanted but using Flex is becoming easier.
+
+**Link to work(s):**
+
+
+
+### Day 4: March 04, 2018
+
+
+**Today's Progress**: Flex is becoming easier to use, layout of portfolio is done.
+
+**Thoughts:** I plan to watch more teamtreehouse videos but so far I have been practicing using the FLEX tools on my freeCodecamp project.
+
+**Link to work(s):**
+1. [FreeCode Camp Tribute](https://codepen.io/THExCEO/pen/ZrjeGd) via @CodePen
