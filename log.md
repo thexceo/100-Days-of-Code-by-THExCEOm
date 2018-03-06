@@ -53,3 +53,16 @@
 
 **Link to work(s):**
 1. [FreeCode Camp Tribute](https://codepen.io/THExCEO/pen/ZrjeGd) via @CodePen
+https://codepen.io/THExCEO/pen/LQoYPP
+
+
+
+### Day 5: March 05, 2018
+
+
+**Today's Progress**: Finished my portfolio project while practicing what I learned from flex lessons.
+
+**Thoughts:** Ran into a few issues with getting the flex containers to do what I want but I'm getting better.
+
+**Link to work(s):**
+1. [FreeCode Camp Portfolio]https://codepen.io/THExCEO/pen/LQoYPP via @CodePen

@@ -18,3 +18,6 @@ teamtreehouse training
 
 ### R1D4
 Flex is becoming easier to use, layout of portfolio is done.
+
+### R1D5
+Finished my portfolio project while practicing what I learned from flex lessons.
