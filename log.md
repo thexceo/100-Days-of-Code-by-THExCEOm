@@ -53,7 +53,7 @@
 
 **Link to work(s):**
 1. [FreeCode Camp Tribute](https://codepen.io/THExCEO/pen/ZrjeGd) via @CodePen
-https://codepen.io/THExCEO/pen/LQoYPP
+
 
 
 
@@ -63,6 +63,18 @@ https://codepen.io/THExCEO/pen/LQoYPP
 **Today's Progress**: Finished my portfolio project while practicing what I learned from flex lessons.
 
 **Thoughts:** Ran into a few issues with getting the flex containers to do what I want but I'm getting better.
+
+**Link to work(s):**
+1. [FreeCode Camp Portfolio]https://codepen.io/THExCEO/pen/LQoYPP via @CodePen
+
+
+
+### Day 6: March 06, 2018
+
+
+**Today's Progress**: Completed forms section of HTML, Now practicing JS (arrays).
+
+**Thoughts:** Finished up Portfolio page and I'm happy with my progress but bouncing between languages confusing me at times.
 
 **Link to work(s):**
 1. [FreeCode Camp Portfolio]https://codepen.io/THExCEO/pen/LQoYPP via @CodePen
