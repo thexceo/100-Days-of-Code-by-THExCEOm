@@ -78,3 +78,66 @@
 
 **Link to work(s):**
 1. [FreeCode Camp Portfolio]https://codepen.io/THExCEO/pen/LQoYPP via @CodePen
+
+### Day 7: March 07, 2018
+
+
+**Today's Progress**: Learned alot about arrays and object in javascript through teamtreehouse and freeCodecamp.
+
+**Thoughts:** While I'm confused most of time I have definitely learned a lot.
+
+**Link to work(s):**
+1.
+
+### Day 8: March 08, 2018
+
+
+**Today's Progress**: More about arrays/objects and their applications
+
+**Thoughts:** Looking to retain this crazy amount of information
+
+**Link to work(s):**
+1.
+
+### Day 9: March 09, 2018
+
+
+**Today's Progress**: Finished 1st array challenge on team treehouse
+
+**Thoughts:** Finished up Portfolio page and I'm happy with my progress but bouncing between languages confusing me at times.
+
+**Link to work(s):**
+1. [teamtreehouse]https://codepen.io/THExCEO/pen/oqXgER via @CodePen
+
+
+### Day 10: March 10, 2018
+
+
+**Today's Progress**: Learning about multi-dimensional arrays and iteration using loops.
+
+**Thoughts:**: Seems simple enough but also seems endless combinations.
+
+**Link to work(s):**
+1.
+
+
+### Day 11: March 11, 2018
+
+
+**Today's Progress**: 
+
+**Thoughts:** Finished up Portfolio page and I'm happy with my progress but bouncing between languages confusing me at times.
+
+**Link to work(s):**
+1. [FreeCode Camp Portfolio]https://codepen.io/THExCEO/pen/LQoYPP via @CodePen
+
+
+### Day 12: March 06, 2018
+
+
+**Today's Progress**: Completed forms section of HTML, Now practicing JS (arrays).
+
+**Thoughts:** Finished up Portfolio page and I'm happy with my progress but bouncing between languages confusing me at times.
+
+**Link to work(s):**
+1. [FreeCode Camp Portfolio]https://codepen.io/THExCEO/pen/LQoYPP via @CodePen
